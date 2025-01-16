@@ -57,4 +57,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Evan-Julian&icon=0&color=8)](https://visitcount.itsvg.in)
 
+## 📚 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-Julian&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
