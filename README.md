@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Evan-Julian/Evan-Julian/blob/main/Github%20Banner.png" alt="GitHub Banner">
+  <img src="https://github.com/Evan-Julian/Evan-Julian/blob/main/Banner.jpeg" alt="GitHub Banner">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/Evan-Julian/Evan-Julian/blob/main/Github%20Banner.png" alt="About Me Image" width="500" height="500">
+      <img src="https://github.com/Evan-Julian/Evan-Julian/blob/main/Profile.gif" alt="About Me Image" width="500" height="450">
     </td>
   </tr>
 </table>
