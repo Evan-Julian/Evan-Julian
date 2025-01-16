@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile" alt="Header Image">
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Personal Website<br>👯 I’m looking to collaborate on Web Design & UI/UX<br>🌱 I’m currently learning HTML, CSS, React And Many More<br>💬 Ask me about anything!<br>
 
