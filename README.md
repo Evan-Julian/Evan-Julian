@@ -23,6 +23,15 @@
   </tr>
 </table>
 
+## 🚀 Recent Project
+
+### [Portofolio Website](https://evan-julian.github.io/Portofolio-Website/)
+A personal portfolio website built with HTML, CSS, and JavaScript showcasing web development skills, design, and projects.
+
+---
+## 🛠️ My Repos
+
+You can check out all my repositories here: [Evan-Julian GitHub Repositories](https://github.com/Evan-Julian)
 
 ## 🌐 Socials:
 <p align="center">
@@ -60,5 +69,3 @@
 ## 📚 Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-Julian&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
