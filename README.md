@@ -2,8 +2,26 @@
   <img src="https://github.com/Evan-Julian/Evan-Julian/blob/main/Github%20Banner.png" alt="GitHub Banner">
 </p>
 
-# 💫 About Me:
-🔭 I’m currently working on Personal Website<br>👯 I’m looking to collaborate on Web Design & UI/UX<br>🌱 I’m currently learning HTML, CSS, React And Many More<br>💬 Ask me about anything!<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Evan-Julian&style=for-the-badge" alt="Profile Visitor Count">
+</p>
+
+<table>
+  <tr>
+    <td>
+      <h1>💫 About Me:</h1>
+      <ul>
+        <li>🔭 I’m currently working on Personal Website</li>
+        <li>👯 I’m looking to collaborate on Web Design & UI/UX</li>
+        <li>🌱 I’m currently learning HTML, CSS, React And Many More</li>
+        <li>💬 Ask me about anything!</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/Evan-Julian/Evan-Julian/blob/main/Github%20Banner.png" alt="About Me Image" width="500" height="500">
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
