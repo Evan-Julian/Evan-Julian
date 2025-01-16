@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile" alt="Header Image">
+  <img src="https://github.com/Evan-Julian/Evan-Julian/blob/main/Github%20Banner.png" alt="GitHub Banner">
 </p>
 
 # 💫 About Me:
