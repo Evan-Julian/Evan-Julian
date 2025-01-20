@@ -26,8 +26,6 @@
   </tr>
 </table>
 
-
-
 ## 🚀 Recent Project
 
 ### [Portofolio Website](https://evan-julian.github.io/Portofolio-Website/)
