@@ -1,50 +1,70 @@
 <p align="center">
-  <img src="https://github.com/Evan-Julian/Evan-Julian/blob/main/Banner.jpeg" alt="GitHub Banner">
+  <img src="https://github.com/Evan-Julian/Evan-Julian/blob/main/Banner.jpeg" alt="GitHub Banner" style="max-width:100%;">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Evan-Julian&style=for-the-badge" alt="Profile Visitor Count">
 </p>
 
-<table>
+---
+
+<h1 align="center">Hello, I'm Evan Julian! 👋</h1>
+
+<p align="center">
+  A passionate <strong>Software Developer</strong> with a strong foundation in both frontend and backend technologies.
+  I love building interactive, dynamic web applications using JavaScript and modern frameworks like React.
+  I'm constantly learning and exploring new technologies, and I enjoy collaborating on projects that push boundaries.
+</p>
+
+---
+
+## 🚀 About Me at a Glance
+
+<table width="100%">
   <tr>
-    <td>
-      <h1>💫 About Me:</h1>
-      <p>
-        I am a passionate software developer with a strong foundation in both frontend and backend technologies. My expertise lies in building interactive, dynamic web applications using JavaScript and modern frameworks like React. I am constantly learning and exploring new technologies, and I love collaborating on projects that push boundaries.
-      </p>
+    <td width="60%">
       <ul>
-        <li>🔭 I’m currently working on Personal Website</li>
-        <li>👯 I’m looking to collaborate on Web Design & UI/UX</li>
-        <li>🌱 I’m currently learning HTML, CSS, React And Many More</li>
-        <li>💬 Ask me about anything!</li>
+        <li>🔭 I’m currently working on my <strong>Personal Website Project</strong>.</li>
+        <li>👯 I’m looking to collaborate on <strong>Web Design & UI/UX</strong> projects.</li>
+        <li>🌱 I’m currently learning <strong>HTML, CSS, React, and much more</strong>!</li>
+        <li>💬 Feel free to ask me anything!</li>
       </ul>
     </td>
-    <td>
-      <img src="https://github.com/Evan-Julian/Evan-Julian/blob/main/Profile.gif" alt="About Me Image" width="500" height="450">
+    <td width="40%" align="center">
+      <img src="https://github.com/Evan-Julian/Evan-Julian/blob/main/Profile.gif" alt="About Me Image" width="auto" height="250">
     </td>
   </tr>
 </table>
 
-## 🚀 Recent Project
+---
 
-### [Portofolio Website](https://evan-julian.github.io/Portofolio-Website/)
-A personal portfolio website built with HTML, CSS, and JavaScript showcasing web development skills, design, and projects.
+## ⚡ Latest Project
+
+### [Portfolio Website](https://evan-julian.github.io/Portofolio-Website/)
+A personal portfolio website built with HTML, CSS, and JavaScript, showcasing my web development skills, design, and projects.
 
 ---
-## 🛠️ My Repos
 
-You can check out all my repositories here: [Evan-Julian GitHub Repositories](https://github.com/Evan-Julian?tab=repositories)
+## 🛠️ My Repositories
 
-## 🌐 Socials:
+Check out all my repositories here: [Evan-Julian GitHub Repositories](https://github.com/Evan-Julian?tab=repositories)
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://instagram.com/m.panjull"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/evan-julian"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Evan-Julian"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://evan-julian.github.io/Portofolio-Website/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://instagram.com/m.panjull" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/evan-julian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Evan-Julian" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://evan-julian.github.io/Portofolio-Website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
 </p>
 
-# 💻 Tech Stack:
+---
+
+## 💻 My Tech Stack
+
+### Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -57,7 +77,7 @@ You can check out all my repositories here: [Evan-Julian GitHub Repositories](ht
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-# 🛠 Tools & Frameworks:
+### Frameworks & Tools:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -78,7 +98,7 @@ You can check out all my repositories here: [Evan-Julian GitHub Repositories](ht
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# 📈 Data Science & Machine Learning:
+### Data Science & Machine Learning:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
@@ -86,30 +106,31 @@ You can check out all my repositories here: [Evan-Julian GitHub Repositories](ht
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-# 🔧 Version Control & Deployment:
+### Version Control & Deployment:
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Evan-Julian&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-Julian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
+## 📊 My GitHub Stats
 
-## ✍️ Random Dev Quote:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+  <img src="https://github-readme-stats.vercel.app/api?username=Evan-Julian&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-Julian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
+
+### 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Evan-Julian&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </p>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evan-Julian&theme=dark&count_private=true&show_icons=true)
+## ✍️ Random Dev Quote
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Evan-Julian&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 📚 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-Julian&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+</p>
