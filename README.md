@@ -28,6 +28,7 @@
         <li>👯 I’m looking to collaborate on <strong>Web Design & UI/UX</strong> projects.</li>
         <li>🌱 I’m currently learning <strong>HTML, CSS, React, and much more</strong>!</li>
         <li>💬 Feel free to ask me anything!</li>
+        <li>⚡ Fun fact: I'm always curious about how technology works behind the scenes!</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -38,16 +39,16 @@
 
 ---
 
-## ⚡ Latest Project
+## ⚡ My Latest Project
 
 ### [Portfolio Website](https://evan-julian.github.io/Portofolio-Website/)
 A personal portfolio website built with HTML, CSS, and JavaScript, showcasing my web development skills, design, and projects.
 
 ---
 
-## 🛠️ My Repositories
+## 📚 Featured Repositories
 
-Check out all my repositories here: [Evan-Julian GitHub Repositories](https://github.com/Evan-Julian?tab=repositories)
+Here are some repositories I'd like to highlight. You can see all my repositories here: [Evan-Julian GitHub Repositories](https://github.com/Evan-Julian?tab=repositories)
 
 ---
 
@@ -113,6 +114,14 @@ Check out all my repositories here: [Evan-Julian GitHub Repositories](https://gi
 
 ---
 
+## 🏆 My GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Evan-Julian&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📊 My GitHub Stats
 
 <p align="center">
@@ -133,4 +142,13 @@ Check out all my repositories here: [Evan-Julian GitHub Repositories](https://gi
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  Feel free to reach out to me via email: <a href="mailto:evanpriyasa@gmail.com">evanpriyasa@gmail.com</a>
+  <br>
 </p>
